@@ -1,0 +1,12 @@
+downloaded_pdfs
+__pycache__
+
+token.json
+
+*.txt
+!requirements.txt
+
+*.pdf
+*.log
+
+temp*
